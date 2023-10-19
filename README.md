@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hyghyn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/jiraphon-chinnarat-637629292/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HYGHYN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiraphon-chinnarat-637629292/)
 </div>
 
 ---
